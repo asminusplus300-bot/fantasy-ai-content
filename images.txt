@@ -1,2 +1,3 @@
 https://cdn.jsdelivr.net/gh/asminusplus300-bot/fantasy-ai-content/images/1.jpg
 https://cdn.jsdelivr.net/gh/asminusplus300-bot/fantasy-ai-content/images/2.jpg
+https://cdn.jsdelivr.net/gh/asminusplus300-bot/fantasy-ai-content/images/generated_image_(101).jpg
